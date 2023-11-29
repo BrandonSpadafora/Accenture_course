@@ -68,7 +68,7 @@ Analysis of sample data sets with visualizations
 
 ### Dependencies
 
-For this project you will need To have Python (I wrote my code in JupyterLabs) and I used the libraries pandas, matplotlib, and seaborn.
+For this project you will need to have Python (I wrote my code in JupyterLabs) and I used the libraries pandas, matplotlib, and seaborn.
 
 
 
