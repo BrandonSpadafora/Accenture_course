@@ -2,6 +2,8 @@
 
 This is a sample project from the https://www.theforage.com/virtual-experience/hzmoNKtzvAzXsEqx8/accenture-north-america/data-analytics-virtual-experience/present-to-the-client website. It's a neat data analytics project!
 
+Note: The first part of the project is combining and cleaning up 3 data sets. I did not include that in this project because my code was too messy. I may add that in this someday in the future.
+
 ## Description
 
 "Client name: Social Buzz
